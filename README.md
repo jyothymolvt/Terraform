@@ -17,12 +17,12 @@ create and manage resources across multiple cloud providers like AWS, Azure, GCP
 
 🔹 terraform init
 Purpose: Initializes a Terraform working directory.
-# terraform init
+cmd: terraform init
 
 🔹 terraform plan
 Purpose: Shows a preview of the changes Terraform will make to your infrastructure.
-# terraform plan
+cmd: terraform plan
 
 🔹 terraform apply
 Purpose: Applies the changes required to reach the desired state of the configuration.
-# terraform apply
+cmd: terraform apply
